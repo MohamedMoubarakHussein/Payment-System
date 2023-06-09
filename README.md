@@ -1,2 +1,3 @@
 # Payment-System
-I'm building this project to learn how to handle a billion of users and learn new topics like concurrency and network programming and understand when to use appropriate algorithms and data structures  and master java and java spring, i hope to acquire all of these skills :)
+
+The objective of this project is to build a payment system like Stripe, Fawry (in Egypt) and other banking payment system I am undertaking this project to learn a lote of useful topics.
